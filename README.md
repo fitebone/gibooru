@@ -1,4 +1,4 @@
-# Gibooru
+# Gibooru ![PyPI](https://img.shields.io/pypi/v/gibooru) ![Licence](https://img.shields.io/pypi/l/gibooru)
 **A PyPi package for asynchronously accessing image board APIs**
 
 ## Overview
@@ -7,7 +7,7 @@ This was a test project based around learning Python concurrency. The impetus wa
 ## Features
 - Asynchronous
 - Maximizes API rate limits
-- Official PyPi package
+- Official PyPI package
 - Easily forkable
 
 ## Getting Started
