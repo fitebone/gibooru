@@ -1,5 +1,5 @@
 # Gibooru ![PyPI](https://img.shields.io/pypi/v/gibooru) ![Licence](https://img.shields.io/pypi/l/gibooru)
-**A PyPi package for asynchronously accessing image board APIs**
+**A PyPI package for asynchronously accessing image board APIs**
 
 ## Overview
 This was a test project based around learning Python concurrency. The impetus was to determine how to aggregate image data sets for machine learning like the [Danbooru2021](https://www.gwern.net/Danbooru2021#danbooru2020) set. The package should work as intended, but some minor functionality may be deprecated due to the site APIs themselves being changed.
